@@ -1,0 +1,1 @@
+Parrallel Coordinates of years song were published, their time in seconds, the number of times they have been played, the number of times it has been played, and the rating I gave it.  The songs are grouped using K-means clustering with k equal to 3.  There is also a brush tool to allow the user to select ranges and any points that are not within the range are greyed out.
